@@ -1,1 +1,2 @@
 This is the first line written in the branch [master]
+Append a new line in the branch [master] 
